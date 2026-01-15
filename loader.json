@@ -3,5 +3,10 @@
 		"order_type": "Dine-in",
 		"order": "Half-Spaghetti",
 		"amount": "1"
-	}
+	},
+	{
+		"order_type": "Dine-in",
+		"order": "2 Piece Chicken",
+		"amount": "2"
+	},
 ]
