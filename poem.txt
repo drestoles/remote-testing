@@ -1,0 +1,5 @@
+Welcome to the use of Git
+Do you have a question to it?
+
+How do we do versions
+So that our system doesn't break?
